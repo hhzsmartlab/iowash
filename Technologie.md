@@ -9,6 +9,26 @@ Durch das Scannen eines QR-Code kann der Benutzer mit seinem Smartphone die Wasc
 
 ![Kommunikationsabläufe](resources/kommunikationsablaeufe.png)
 
-Für die Implementierung des Mock-Ups wurde auf Cloudtechnologien von IBM zurück gegriffen. Die Benutzeroberfläche und die Ablaufsteuerung wurden mit Node-RED realisiert. Dabei handelt es sich um ein auf Node.js basierendes Tool zur schnellen Entwicklung von Prototypen im Internet of Things. Die Kommunikation zwischen den UI-Elementen und Backend-Services läuft über Websockets für einen dynamischen Informationsaustausch ab. Für die Übertragung von Daten von und zur Waschmaschine wurde MQTT eingesetzt. Es handelt sich dabei um ein leichtgewichtiges Protokoll mit eingebauten Mechanismen für einen zuverlässigen Transport bei instabilen Netzwerkverbindungen. Als Message-Broker zum Nachrichtenaustausch wurde die Internet of Things Platform eingesetzt.
+Für die Implementierung des Mock-Ups wurde auf Cloudtechnologien von IBM zurück gegriffen. Die Benutzeroberfläche und die Ablaufsteuerung wurden mit Node-RED realisiert. Dabei handelt es sich um ein auf Node.js basierendes Tool zur schnellen Entwicklung von Prototypen im Internet of Things. Die Kommunikation zwischen den UI-Elementen und Backend-Services läuft über Websockets für einen dynamischen Informationsaustausch ab. Für die Übertragung von Daten von und zur Waschmaschine wurde das MQTT eingesetzt. Es handelt sich dabei um ein leichtgewichtiges Protokoll mit eingebauten Mechanismen für einen zuverlässigen Transport bei instabilen Netzwerkverbindungen. Als Message-Broker zum Nachrichtenaustausch wurde die Internet of Things Platform verwendet.
 
 ![Cloudtechnologien](resources/cloudtechnologien.png)
+
+Bei dem Nachrichtenaustausch zwischen Waschmaschine und Backend-Services wurde sich an die Konventionen der IoT Platform gehalten. Die Waschmaschine wurde registriert mit einer `deviceId` und einem `deviceType`, um sie eindeutig identifizieren und ansprechen zu können. Statusmeldungen von der Waschmaschine wurden als `events` gesendet, wohingegen Befehle an die Waschmaschine als `commands` geschickt wurden. Als Format der Nachrichten wurde `json` verwendet, um die jeweils relevanten Informationen zu übergeben. Daraus ergibt sich die typische Struktur für die Topic-Strings und den Aufbau des Payloads, wie folgende Beispiele zum Empfangen der Einstellung und Senden der verbleibenden Zeit zeigen:
+
+```javascript
+// Example: Message to Send Program Settings to Washer
+var topic = "iot-2/type/washer/id/washer-leo-03/cmd/settings/fmt/json"
+var payload = {
+  program: "coloreds",
+  spin: 1200
+  temp: 40
+}
+
+// Example: Message to Send Remaining Time to App
+var topic = "iot-2/type/washer/id/washer-leo-03/evt/time/fmt/json"
+var payload = {
+  timeToFinish: 33,
+  timeTotal: 66,
+  timePercentage: 50
+}
+```
