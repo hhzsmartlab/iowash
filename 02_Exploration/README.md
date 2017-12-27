@@ -1,4 +1,4 @@
-# Co - Creation
-Analyze IoT applications in context. Make your application understandable. Use instruments from other lectures, e. g. canvas methods.)
+# 02 Exploration
+In a test setup, show how your idea can work. Use IoT Mock-up technology, which you expect to be generally available.
 
-### List of used methods
+### iowash Mock-Up
