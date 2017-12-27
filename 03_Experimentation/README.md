@@ -1,4 +1,3 @@
-# Co - Creation
-Analyze IoT applications in context. Make your application understandable. Use instruments from other lectures, e. g. canvas methods.)
+# 03 Experimentation
+As a result of exploration, determine and justify an MVP of your application. Describe the Living Lab Setup, the users and which data should be collected for the evaluation. A concrete implementation is not necessary.
 
-### List of used methods
