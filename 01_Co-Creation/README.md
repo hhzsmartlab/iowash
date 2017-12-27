@@ -1,4 +1,4 @@
 # Co - Creation
-Analysieren Sie IoT Anwendungen im Kontext. Machen Sie ihre Anwendung verständlich. Nutzen Sie auch Instrumente aus anderen Vorlesungen, z.B. Canvas Methoden.)
+Analyze IoT applications in context. Make your application understandable. Use instruments from other lectures, e. g. canvas methods.)
 
-### List of used frameworks
+### List of used methods
