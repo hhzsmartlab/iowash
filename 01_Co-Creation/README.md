@@ -1,6 +1,10 @@
 # 01 Co - Creation
 Analyze IoT applications in context. Make your application understandable. Use instruments from other lectures, e. g. canvas methods.)
 
+### Team Roles and Responsibilities
+
+![TeamOrga](../resources/team_orga.png)
+
 ### List of used methods
 
 ### Wheels of Value
