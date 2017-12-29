@@ -32,7 +32,7 @@ Analyze IoT applications in context. Make your application understandable. Use i
 ![LeanCanvas](../resources/lean_canvas.png)
 
 ### Wheels of Value
-![WheelsOfValue](../resources/wheels_of_value_english.PNG)
+![WheelsOfValue](../resources/wheels_of_value_english.png)
 
 With the Wheels of Value it can be determined, that three groups benefit from the iowash concept: the manufacturing company, the property manager and the user of the washing machine.
 
