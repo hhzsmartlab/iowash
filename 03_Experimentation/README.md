@@ -3,7 +3,7 @@ As a result of exploration, determine and justify an MVP of your application. De
 
 ## Identifying the MVP
 
-![Storymap](../resources/IOWash_Storymap.PNG)
+![Storymap](../resources/storymap.png)
 
 The two residents of the multi-party house Rolf and Anja open the application for the first time to see when a washing machine is available. The first time they open it, the two of them have to register for the service. Firstly, create an account, in which they specify the residential complex in which they live and enter their payment information for the Internet payment service.
 After the initial registration, the utilization of the washing machines can be seen. When opening the app for the second time, the utilization is displayed immediately.
