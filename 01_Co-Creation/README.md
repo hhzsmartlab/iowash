@@ -8,9 +8,9 @@ In the first step, we defined which roles we need for the project. In the second
 
 The roles are as follows:
 
-![TeamOrga](../resources/team_orga.png)
+![TeamOrga](../resources/team_orga.jpg)
 
-<b>Project Manager</b><br> 
+<b>Project Manager</b><br>
 operational organizational management of the project, implementation of project planning, project management, project controlling / status check, ensuring compliance with deadline and economic project goals
 
 <b>Customer Services</b> <br>
