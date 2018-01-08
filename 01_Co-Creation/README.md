@@ -37,6 +37,7 @@ First, we thought about which personas are needed. the group of users of communa
 For each of these two types of housing, we each created a persona as well as another persona for the administration of the washing machines.
 
 Our personas are <b>Rolf</b> (stressed system administrator with little time, live in a residential complex), <b>Anja</b> (student with first own apartment, lives in a student hostel) and <b>Herbert</b> (property manager and responsible for the administration of washing machines).
+The following describes the personas as such. It also describes what the appropriate persona says, thinks, feels and does about our problem.
 
 #### Rolf
 
