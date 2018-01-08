@@ -8,6 +8,8 @@ In the first step, we defined which roles we need for the project. In the second
 
 The roles are as follows:
 
+![TeamOrga](../resources/team_orga.png)
+
 <b>Project Manager</b><br> 
 operational organizational management of the project, implementation of project planning, project management, project controlling / status check, ensuring compliance with deadline and economic project goals
 
@@ -23,7 +25,7 @@ examination of technical requirements, technical implementation of the project, 
 <b>Creative Artist</b><br>
 development of marketing strategies, control of marketing activities (online and offline), campaign management, development of marketing concepts for existing or new products, production of product and image films
 
-![TeamOrga](../resources/team_orga.png)
+
 
 ### List of used methods
 
