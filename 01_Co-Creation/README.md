@@ -57,19 +57,22 @@ The following describes the personas as such. It also describes what the appropr
 
 #### Rolf
 
-The stressed-out rolf works a lot during the week, as he has a great deal of responsibility in his job. Therefore, he only has to wash his laundry at the weekend. however, the washing machines are permanently occupied on the days. when he has finally found a free machine, the search starts for coins. 
+The stressed-out rolf works a lot during the week, as he has a great deal of responsibility in his job. Therefore, he only has to wash his laundry at the weekend. however, the washing machines are permanently occupied on the days. when he has finally found a free machine, the search starts for coins. <br>
 In order to simplify the washing process, the product should offer an availability check in which the free machine can be pre-reserved. In addition, the possibility of cashless payment should be offered.
 
 ![ValuePropositionRolf](../resources/value_proposition_rolf.png)
 
 #### Anja
 
-The student anja has lectures during the week in mannheim, but mostly confined to a few hours a day. every two weeks she travels home to berlin over the weekend. During the week she usually forgets to wash. And if she thinks about it on the weekend, the machines are mostly occupied. Unfortunately, she often forgets that she washes laundry. when she remembers, her freshly washed machine often lies on the floor and other laundry is in the machine. In addition, Anja usually has no money to wash as a student.
+The student anja has lectures during the week in mannheim, but mostly confined to a few hours a day. every two weeks she travels home to berlin over the weekend. During the week she usually forgets to wash. And if she thinks about it on the weekend, the machines are mostly occupied. Unfortunately, she often forgets that she washes laundry. when she remembers, her freshly washed machine often lies on the floor and other laundry is in the machine. In addition, Anja usually has no money to wash as a student.<br>
 For anja, the product should have an availability check if a machine is currently free. If she has any laundry then the application should inform her about the end, so that Anja can get the laundry out of the machine without having to pick it up from the floor. To give it a boost during the week, when hardly anyone washes to wash, the product could offer discounted washing times.
 
 ![ValuePropositionAnja](../resources/value_proposition_anja.png)
 
 #### Herbert
+
+Herbert is the property manager responsible for the administration of the washing machines. He constantly gets complaints that the washing machines are permanently occupied. The tenants would like to have more. But Herbert sees rarely used washing machines during the week and does not understand the problem. He manages many machines in different places and has to keep track of them. To get information about the current state of the washing machines, he has to drive himself into the residential complexes. <br>
+A product for herbert would have to display all washing machines with their current status, which he manages. For him, an evaluation function of the machines would be optimal. With this he can see which machine, when and how busy. through offers in the empty periods he can give the residents an incentive to wash at this time. if the machines then accept cashless payment, he does not have to regularly empty the money boxes and do not worry about them being stolen.
 
 ![ValuePropositionHerbert](../resources/value_proposition_herbert.png)
 
