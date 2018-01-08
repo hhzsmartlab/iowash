@@ -29,7 +29,7 @@ development of marketing strategies, control of marketing activities (online and
 
 ### List of used methods
 
-### Personas and Value Proposition
+### Personas
 
 In order to work out the goals and needs of our target group, we create potential users as personas. The goal is to develop a user-friendly product. Our personas are fictional users within our target group. Like real users, our personas have needs, abilities and goals. They do not represent the average of the crowd, but are specific people who make patterns in user behavior clear.
 
@@ -43,19 +43,36 @@ The following describes the personas as such. It also describes what the appropr
 
 ![PersonaRolf](../resources/persona_rolf.png)
 
-![ValuePropositionRolf](../resources/value_proposition_rolf.png)
-
 #### Anja
 
 ![PersonaAnja](../resources/persona_anja.png)
-
-![ValuePropositionAnja](../resources/value_proposition_anja.png)
 
 #### Herbert
 
 ![PersonaHerbert](../resources/persona_herbert.png)
 
+
+
+### Value Proposition
+
+#### Rolf
+
+The stressed-out rolf works a lot during the week, as he has a great deal of responsibility in his job. Therefore, he only has to wash his laundry at the weekend. however, the washing machines are permanently occupied on the days. when he has finally found a free machine, the search starts for coins. 
+In order to simplify the washing process, the product should offer an availability check in which the free machine can be pre-reserved. In addition, the possibility of cashless payment should be offered.
+
+![ValuePropositionRolf](../resources/value_proposition_rolf.png)
+
+#### Anja
+
+The student anja has lectures during the week in mannheim, but mostly confined to a few hours a day. every two weeks she travels home to berlin over the weekend. During the week she usually forgets to wash. And if she thinks about it on the weekend, the machines are mostly occupied. Unfortunately, she often forgets that she washes laundry. when she remembers, her freshly washed machine often lies on the floor and other laundry is in the machine. In addition, Anja usually has no money to wash as a student.
+For anja, the product should have an availability check if a machine is currently free. If she has any laundry then the application should inform her about the end, so that Anja can get the laundry out of the machine without having to pick it up from the floor. To give it a boost during the week, when hardly anyone washes to wash, the product could offer discounted washing times.
+
+![ValuePropositionAnja](../resources/value_proposition_anja.png)
+
+#### Herbert
+
 ![ValuePropositionHerbert](../resources/value_proposition_herbert.png)
+
 
 ### Lean canvas
 
