@@ -33,7 +33,10 @@ development of marketing strategies, control of marketing activities (online and
 
 In order to work out the goals and needs of our target group, we create potential users as personas. The goal is to develop a user-friendly product. Our personas are fictional users within our target group. Like real users, our personas have needs, abilities and goals. They do not represent the average of the crowd, but are specific people who make patterns in user behavior clear.
 
-Our personas are <b>Rolf</b> (stressed system administrator with little time), <b>Anja</b> (student with first own apartment) and <b>Herbert</b> (property manager and responsible for the operation of washing machines).
+First, we thought about which personas are needed. the group of users of communal washing machines is easy to isolate on residential complexes and student hostels.
+For each of these two types of housing, we each created a persona as well as another persona for the administration of the washing machines.
+
+Our personas are <b>Rolf</b> (stressed system administrator with little time, live in a residential complex), <b>Anja</b> (student with first own apartment, lives in a student hostel) and <b>Herbert</b> (property manager and responsible for the administration of washing machines).
 
 #### Rolf
 
