@@ -1,8 +1,8 @@
 # iowash
 
 ## Vorgehen:
-### Co - Creation:
-Analysieren Sie IoT Anwendungen im Kontext. Machen Sie ihre Anwendung verständlich. Nutzen Sie auch Instrumente aus anderen Vorlesungen, z.B. Canvas Methoden.)
+[### Co - Creation:](https://github.com/hhzsmartlab/iowash/tree/master/01_Co-Creation)
+Analyze IoT applications in context. Make your application understandable. Use instruments from other lectures, e. g. canvas methods.)
 
 ### Exploration:
 Zeigen Sie in einem Test Setup wie Ihre Idee funktionieren kann. Nutzen Sie IoT Mock-up Technologie, von der Sie ausgehen, dass Sie i.a. verfügbar ist.
