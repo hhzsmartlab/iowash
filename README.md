@@ -17,6 +17,7 @@ To start with we analyze the #iowash application in context. We then make the ap
   ##### [1.2.2 Value Proposition](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#value-proposition)
   ##### [1.2.3 Lean canvas](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#lean-canvas)
   ##### [1.2.4 Wheels of Value](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#wheels-of-value)
+  ##### [1.2.5 Mock-Up](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#mock-up)
     
 ### [Exploration](https://github.com/hhzsmartlab/iowash/tree/master/02_Exploration)
 In a test setup we show how our idea can work. We use IoT Mock-up technology, which we expect to be generally available.
