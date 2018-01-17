@@ -5,7 +5,7 @@ Group assignment as part of the module `Internet of Things` by [@cdeck3r](https:
   
 Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://github.com/T9876) [@ChrisSen](https://github.com/ChrisSen) [@klonsian](https://github.com/klonsian) [@lekuhe](https://github.com/lekuhe)
 
-## Vorgehen:
+## Way of proceeding:
 ### [Co - Creation:](https://github.com/hhzsmartlab/iowash/tree/master/01_Co-Creation)
 Analyze IoT applications in context. Make your application understandable. Use instruments from other lectures, e. g. canvas methods.)
 
