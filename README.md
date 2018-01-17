@@ -6,8 +6,9 @@ Group assignment as part of the module `Internet of Things` by [@cdeck3r](https:
 Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://github.com/T9876) [@ChrisSen](https://github.com/ChrisSen) [@klonsian](https://github.com/klonsian) [@lekuhe](https://github.com/lekuhe)
 
 ## Way of proceeding
-### [Co - Creation](https://github.com/hhzsmartlab/iowash/tree/master/01_Co-Creation)
-To start with we analyze the #iowash application in context. We then make the application understandable by using instruments from other lectures (e. g. canvas methods).
+### [1. Co - Creation](https://github.com/hhzsmartlab/iowash/tree/master/01_Co-Creation)
+
+...To start with we analyze the #iowash application in context. We then make the application understandable by using instruments from other lectures (e. g. canvas methods).
 
 #### [1.1 Team Roles and Responsibilities](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.1_Team.md)
   
