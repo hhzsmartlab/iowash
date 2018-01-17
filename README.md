@@ -12,13 +12,14 @@ Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://git
 
 #### [1.1 Team Roles and Responsibilities](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.1_Team.md)
   
-  #### [1.2 List of used methods](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md)
+#### [1.2 List of used methods](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md)
   
-  ##### [1.2.1 Personas](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#personas)
-  ##### [1.2.2 Value Proposition](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#value-proposition)
-  ##### [1.2.3 Lean canvas](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#lean-canvas)
-  ##### [1.2.4 Wheels of Value](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#wheels-of-value)
-  ##### [1.2.5 Mock-Up](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#mock-up)
+##### [1.2.1 Personas](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#personas)
+##### [1.2.2 Value Proposition](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#value-proposition)
+##### [1.2.3 Lean canvas](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#lean-canvas)
+##### [1.2.4 Wheels of Value](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#wheels-of-value)
+##### [1.2.5 Mock-Up](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#mock-up)
+##### [1.2.6 Identifying the MVP](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#identifying-the-mvp)
     
 ### 2. Exploration
 `In a test setup we show how our idea can work. We use IoT Mock-up technology, which we expect to be generally available.`
