@@ -1,29 +1,7 @@
 # 01 Co - Creation
-Analyze IoT applications in context. Make your application understandable. Use instruments from other lectures, e. g. canvas methods.)
 
-### Team Roles and Responsibilities
-For a project to be successful, the project staff must work well together. For this it is necessary to optimally fill the project team.
-Our team consists of 5 people, who are task-oriented and should work together.
-In the first step, we defined which roles we need for the project. In the second step we decided which person in the team takes over which role.
+#### Team Roles and Responsibilities
 
-The roles are as follows:
-
-![TeamOrga](../resources/team_orga.jpg)
-
-<b>Project Manager</b><br>
-operational organizational management of the project, implementation of project planning, project management, project controlling / status check, ensuring compliance with deadline and economic project goals
-
-<b>Customer Services</b> <br>
-Communication with the customer, definition of the requirements and contents of the project from the customer's point of view, carrying out tests and testing of all active systems and components, identifying the right channels for communication with customers (via web, social media, etc.)
-
-<b>	Analyst</b><br>
-Identify state, describe existing problems / opportunities, define goals, create solution design / service design, create business case, analyze and optimize business processes
-
-<b>IT Expert</b><br>
-examination of technical requirements, technical implementation of the project, creation of mockups, information on the status, on-time and cost-effective delivery of the results
-
-<b>Creative Artist</b><br>
-development of marketing strategies, control of marketing activities (online and offline), campaign management, development of marketing concepts for existing or new products, production of product and image films
 
 
 
