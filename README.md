@@ -1,4 +1,8 @@
 # iowash
+Hermann Hollerith Research Center // MSc. Digital Business Management
+Group assignment as part of the module `Internet of Things` by @cdeck3r
+
+Authors: @JasminKircher @T9876 @ChrisSen @klonsian @lekuhe
 
 ## Vorgehen:
 ### [Co - Creation:](https://github.com/hhzsmartlab/iowash/tree/master/01_Co-Creation)
