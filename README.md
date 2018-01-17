@@ -20,11 +20,11 @@ Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://git
   ##### [1.2.4 Wheels of Value](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#wheels-of-value)
   ##### [1.2.5 Mock-Up](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#mock-up)
     
-### [Exploration](https://github.com/hhzsmartlab/iowash/tree/master/02_Exploration)
+### [2. Exploration](https://github.com/hhzsmartlab/iowash/tree/master/02_Exploration)
 `In a test setup we show how our idea can work. We use IoT Mock-up technology, which we expect to be generally available.`
 
-### [Experimentation](https://github.com/hhzsmartlab/iowash/tree/master/03_Experimentation)
+### [3. Experimentation](https://github.com/hhzsmartlab/iowash/tree/master/03_Experimentation)
 `As a result of the exploration phase, we determine and justify an MVP of our application. Furthermore we describe the Living Lab Setup, the users and which data should be collected for the evaluation.`
 
-### [Evaluation](https://github.com/hhzsmartlab/iowash/tree/master/04_Evaluation)
+### [4. Evaluation](https://github.com/hhzsmartlab/iowash/tree/master/04_Evaluation)
 `Finally, we describe possible results from the experimental phase and how we can recognize them in the data.`
