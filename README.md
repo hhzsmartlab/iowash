@@ -7,13 +7,13 @@ Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://git
 
 ## Way of proceeding
 ### [Co - Creation](https://github.com/hhzsmartlab/iowash/tree/master/01_Co-Creation)
-Analyze IoT applications in context. Make your application understandable. Use instruments from other lectures, e. g. canvas methods.)
+To start with we analyze the #iowash application in context. We then make the application understandable by using instruments from other lectures (e. g. canvas methods).
 
 ### [Exploration](https://github.com/hhzsmartlab/iowash/tree/master/02_Exploration)
-In a test setup, show how your idea can work. Use IoT Mock-up technology, which you expect to be generally available.
+In a test setup we show how our idea can work. We use IoT Mock-up technology, which we expect to be generally available.
 
 ### [Experimentation](https://github.com/hhzsmartlab/iowash/tree/master/03_Experimentation)
-As a result of exploration, determine and justify an MVP of your application. Describe the Living Lab Setup, the users and which data should be collected for the evaluation. A concrete implementation is not necessary.
+As a result of the exploration phase, we determine and justify an MVP of our application. Furthermore we describe the Living Lab Setup, the users and which data should be collected for the evaluation.
 
 ### [Evaluation](https://github.com/hhzsmartlab/iowash/tree/master/04_Evaluation)
-Describe possible results from the experimental phase and how you can recognize them in the data.
+Finally, we describe possible results from the experimental phase and how we can recognize them in the data.
