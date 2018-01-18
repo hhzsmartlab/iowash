@@ -30,7 +30,7 @@ Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://git
 ### 3. Experimentation
 `As a result of the exploration phase, we determine and justify an MVP of our application. Furthermore we describe the Living Lab Setup, the users and which data should be collected for the evaluation.`
 
-#### [3.1 Living Lab Setup](https://github.com/hhzsmartlab/iowash/blob/master/02_Experimentation/3.1_Living-Lab-Setup.md)
+#### [3.1 Living Lab Setup](https://github.com/hhzsmartlab/iowash/blob/master/03_Experimentation/3.1_Living-Lab-Setup.md)
 #### [3.2 Test Phase]
 #### [3.3 Data Collection]
 
