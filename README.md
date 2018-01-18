@@ -18,6 +18,7 @@ Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://git
 ##### [1.2.2 Value Proposition](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#value-proposition)
 ##### [1.2.3 Lean canvas](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#lean-canvas)
 ##### [1.2.4 Wheels of Value](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#wheels-of-value)
+##### [1.2.5 Service Blueprint](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#service-blueprint)
 ##### [1.2.6 Identifying the MVP](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md#identifying-the-mvp)
     
 ### 2. Exploration
