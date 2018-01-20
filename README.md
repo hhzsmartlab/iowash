@@ -24,8 +24,8 @@ Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://git
 ### 2. Exploration
 `In a test setup we show how our idea can work. We use IoT Mock-up technology, which we expect to be generally available.`
 
-#### [2.1 System Architecture](https://github.com/hhzsmartlab/iowash/blob/master/02_Exploration/2.1_System%20Architecture)
-#### [2.2 Mock-Up](https://github.com/hhzsmartlab/iowash/blob/master/02_Exploration/1.2_Mock-Up)
+#### [2.1 System Architecture](https://github.com/hhzsmartlab/iowash/blob/master/02_Exploration/2.1_System%20Architecture.md)
+#### [2.2 Mock-Up](https://github.com/hhzsmartlab/iowash/blob/master/02_Exploration/1.2_Mock-Up.md)
 
 ### 3. Experimentation
 `As a result of the exploration phase, we determine and justify an MVP of our application. Furthermore we describe the Living Lab Setup, the users and which data should be collected for the evaluation.`
