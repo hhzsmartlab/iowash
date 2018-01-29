@@ -16,6 +16,26 @@ Additionally, many users search the start button on the tablet, because they are
 **Phase 3)**
 Some probands react positive on the expiration of the timer, others do not see the notification immediately.
 
+
+Claim Feedback in Google Form
+
+**How did you like the iowash service?**
+
+The testers liked the service altogether. It's a good idea, easy to access and has a concise smartphone interface. However, the user interface at the washing machine was criticized. With this missing the possibility to start the washing program. This is so far only possible via the smartphone. If settings have been made via the UI on the washing machine and then the QR code is scanned, the settings made are overwritten.
+
+**Which Features did you find most useful?**
+
+
+**What additional features would you expect?**
+
+
+**Which Features did you struggle with?**
+
+
+**How could the service be easier to use?**
+
+
+
 ## 4.2 Data-Analysis
 
 ## 4.3 Conclusions
