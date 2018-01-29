@@ -43,6 +43,6 @@ The Internet of things (IoT) describes embedded devices with Internet connectivi
 ### 4. Evaluation
 `Finally, we describe possible results from the experimental phase and how we can recognize them in the data.`
 
-#### [4.1 Validation](../master/04_Evaluation/4.1_Validation.md)
-#### [4.2 Data Analysis](../master/04_Evaluation/4.2_Data-Analysis.md)
-#### [4.3 Conclusions](../master/04_Evaluation/4.3_Conclusions.md)
+#### [4.1 Validation](.../master/04_Evaluation/4_Evaluation.md#41-validation)
+#### [4.2 Data Analysis](../master/04_Evaluation/4_Evaluation.md#42-data-analysis)
+#### [4.3 Conclusions](../master/04_Evaluation/4_Evaluation.md#43-conclusions)
