@@ -16,9 +16,9 @@ The Internet of things (IoT) describes embedded devices with Internet connectivi
 
 `To start with we analyze the #iowash application in context. We then make the application understandable by using instruments from other lectures (e. g. canvas methods).`
 
-#### [1.1 Team Roles and Responsibilities](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.1_Team.md)
+#### [1.1 Team Roles and Responsibilities](../master/01_Co-Creation/1.1_Team.md)
 
-#### [1.2 List of used methods](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md)
+#### [1.2 List of used methods](../master/01_Co-Creation/1.2_Methods.md)
 
 ##### [1.2.1 Personas](../master/01_Co-Creation/1.2_Methods.md#personas)
 ##### [1.2.2 Value Proposition](../master/01_Co-Creation/1.2_Methods.md#value-proposition)
@@ -36,9 +36,9 @@ The Internet of things (IoT) describes embedded devices with Internet connectivi
 ### 3. Experimentation
 `As a result of the exploration phase, we determine and justify an MVP of our application. Furthermore we describe the Living Lab Setup, the users and which data should be collected for the evaluation.`
 
-#### [3.1 Living Lab Setup](../master/03_Experimentation/3.1_Living-Lab-Setup.md#31-living-lab-setup)
-#### [3.2 Test Phase](../master/03_Experimentation/3.1_Living-Lab-Setup.md#32-test-phase)
-#### [3.3 Data Collection](../master/03_Experimentation/3.1_Living-Lab-Setup.md#33-data-collection)
+#### [3.1 Living Lab Setup](../master/03_Experimentation/3_Experimentation.md#31-living-lab-setup)
+#### [3.2 Test Phase](../master/03_Experimentation/3_Experimentation.md#32-test-phase)
+#### [3.3 Data Collection](../master/03_Experimentation/3_Experimentation.md#33-data-collection)
 
 ### 4. Evaluation
 `Finally, we describe possible results from the experimental phase and how we can recognize them in the data.`
