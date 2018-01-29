@@ -5,7 +5,7 @@ Group assignment as part of the module `Internet of Things` by [@cdeck3r](https:
 
 Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://github.com/T9876) [@ChrisSen](https://github.com/ChrisSen) [@klonsian](https://github.com/klonsian) [@lekuhe](https://github.com/lekuhe)
 
-## iowash - The IoT Service for Community Washing Machines
+### The IoT Service for Community Washing Machines
 
 The Internet of things (IoT) describes embedded devices with Internet connectivity, allowing them to interact with each other, services, and people on a global scale. Basically, all technologies and solutions that enable the integration of real world data and services into the current information networking technologies are described as IoT. By 2020, the number of networked devices is expected to rise to 20,000,000,000,000. This is 500,000 times the earth’s equator. The revenue made with IoT will rise up to 50 billion Euros by 2020...
 
