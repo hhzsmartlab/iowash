@@ -20,29 +20,29 @@ The Internet of things (IoT) describes embedded devices with Internet connectivi
 
 #### [1.2 List of used methods](https://github.com/hhzsmartlab/iowash/blob/master/01_Co-Creation/1.2_Methods.md)
 
-##### [1.2.1 Personas](../01_Co-Creation/1.2_Methods.md#personas)
-##### [1.2.2 Value Proposition](../01_Co-Creation/1.2_Methods.md#value-proposition)
-##### [1.2.3 Lean canvas](../01_Co-Creation/1.2_Methods.md#lean-canvas)
-##### [1.2.4 Wheels of Value](../01_Co-Creation/1.2_Methods.md#wheels-of-value)
-##### [1.2.5 Service Blueprint](../01_Co-Creation/1.2_Methods.md#service-blueprint)
-##### [1.2.6 Identifying the MVP](../01_Co-Creation/1.2_Methods.md#identifying-the-mvp)
+##### [1.2.1 Personas](../master/01_Co-Creation/1.2_Methods.md#personas)
+##### [1.2.2 Value Proposition](../master/01_Co-Creation/1.2_Methods.md#value-proposition)
+##### [1.2.3 Lean canvas](../master/01_Co-Creation/1.2_Methods.md#lean-canvas)
+##### [1.2.4 Wheels of Value](../master/01_Co-Creation/1.2_Methods.md#wheels-of-value)
+##### [1.2.5 Service Blueprint](../master/01_Co-Creation/1.2_Methods.md#service-blueprint)
+##### [1.2.6 Identifying the MVP](../master/01_Co-Creation/1.2_Methods.md#identifying-the-mvp)
 
 ### 2. Exploration
 `In a test setup we show how our idea can work. We use IoT Mock-up technology, which we expect to be generally available.`
 
-#### [2.1 System Architecture](../02_Exploration/2.1_System%20Architecture.md)
-#### [2.2 Mock-Up](../02_Exploration/2.2_Mock-Up.md)
+#### [2.1 System Architecture](../master/02_Exploration/2.1_System%20Architecture.md)
+#### [2.2 Mock-Up](../master/02_Exploration/2.2_Mock-Up.md)
 
 ### 3. Experimentation
 `As a result of the exploration phase, we determine and justify an MVP of our application. Furthermore we describe the Living Lab Setup, the users and which data should be collected for the evaluation.`
 
-#### [3.1 Living Lab Setup](../03_Experimentation/3.1_Living-Lab-Setup.md)
-#### [3.2 Test Phase](../03_Experimentation/3.1_Living-Lab-Setup.md#32-test-phase)
-#### [3.3 Data Collection](../03_Experimentation/3.1_Living-Lab-Setup.md#33-data-collection)
+#### [3.1 Living Lab Setup](../master/03_Experimentation/3.1_Living-Lab-Setup.md#31-living-lab-setup)
+#### [3.2 Test Phase](../master/03_Experimentation/3.1_Living-Lab-Setup.md#32-test-phase)
+#### [3.3 Data Collection](../master/03_Experimentation/3.1_Living-Lab-Setup.md#33-data-collection)
 
 ### 4. Evaluation
 `Finally, we describe possible results from the experimental phase and how we can recognize them in the data.`
 
-#### [4.1 Validation](../04_Evaluation/4.1_Validation.md)
-#### [4.2 Data Analysis](../04_Evaluation/4.2_Data-Analysis.md)
-#### [4.3 Conclusions](../04_Evaluation/4.3_Conclusions.md)
+#### [4.1 Validation](../master/04_Evaluation/4.1_Validation.md)
+#### [4.2 Data Analysis](../master/04_Evaluation/4.2_Data-Analysis.md)
+#### [4.3 Conclusions](../master/04_Evaluation/4.3_Conclusions.md)
