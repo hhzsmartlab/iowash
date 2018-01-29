@@ -1,5 +1,5 @@
 # iowash
-### Hermann Hollerith Research Center  
+### Herman Hollerith Research Center  
 #### MSc. Digital Business Management (Class of 2018) 
 Group assignment as part of the module `Internet of Things` by [@cdeck3r](https://github.com/cdeck3r)  
   
