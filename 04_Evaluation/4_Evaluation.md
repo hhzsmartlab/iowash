@@ -17,7 +17,7 @@ Additionally, many users search the start button on the tablet, because they are
 Some probands react positive on the expiration of the timer, others do not see the notification immediately.
 
 
-Claim Feedback in Google Form
+**Claim Feedback in Google Form**
 
 **How did you like the iowash service?**
 
