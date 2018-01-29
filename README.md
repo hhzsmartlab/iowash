@@ -1,6 +1,6 @@
 # iowash
 ### Herman Hollerith Research Center  
-#### MSc. Digital Business Management (Class of 2018) 
+#### MSc. Digital Business Management (DBM16) 
 Group assignment as part of the module `Internet of Things` by [@cdeck3r](https://github.com/cdeck3r)  
   
 Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://github.com/T9876) [@ChrisSen](https://github.com/ChrisSen) [@klonsian](https://github.com/klonsian) [@lekuhe](https://github.com/lekuhe)
