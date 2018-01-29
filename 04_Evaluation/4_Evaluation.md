@@ -3,6 +3,7 @@
 **Observations in #1 Iteration**
 
 **Phase 1)**
+
 The users either scan the QR code either directly when they come to the washing machine and interact with the smartphone 
 or they only use the tablet. They do not understand why they need the smartphone for doing their laundry. 
 
@@ -14,6 +15,7 @@ Many probands change the program settings on the machine's display and on the sm
 Additionally, many users search the start button on the tablet, because they are not using their smartphone for selecting the program. After a while of searching the start button, the probands that may be the QR code might help. However, this media break confuses when focusing on the washing machine's display.
 
 **Phase 3)**
+
 Some probands react positive on the expiration of the timer, others do not see the notification immediately.
 
 
