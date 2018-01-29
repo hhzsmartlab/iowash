@@ -5,6 +5,12 @@ Group assignment as part of the module `Internet of Things` by [@cdeck3r](https:
 
 Authors: [@JasminKircher](https://github.com/JasminKircher) [@T9876](https://github.com/T9876) [@ChrisSen](https://github.com/ChrisSen) [@klonsian](https://github.com/klonsian) [@lekuhe](https://github.com/lekuhe)
 
+## Marketing Video
+
+The Internet of things (IoT) describes embedded devices with Internet connectivity, allowing them to interact with each other, services, and people on a global scale. Basically, all technologies and solutions that enable the integration of real world data and services into the current information networking technologies are described as IoT. By 2020, the number of networked devices is expected to rise to 20,000,000,000,000. This is 500,000 times the earth’s equator. The revenue made with IoT will rise up to 50 billion Euros by 2020...
+
+[![iowash Video](resources/video-thumbnail.png)](https://www.youtube.com/watch?v=9xDgP256jHA&t=1m19s)
+
 ## Way of proceeding
 ### 1. Co - Creation
 
