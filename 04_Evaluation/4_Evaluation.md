@@ -54,9 +54,16 @@ Some probands react positive on the expiration of the timer, others do not see t
 + media break between smartphone and machine display
 + If the setting is made on the washing machine and then the QR code is scanned, the settings made will overwrite
 + starting the machine
++ Transition from the machine to the app unclear
 
 
 **How could the service be easier to use?**
+
++ Guide the user to detail configuration settings on the maschine’s display
++ one central controll
++ exclude unrealistic settings
++ Note on cash machine in the UI
+
 
 
 ### Observations in #2 Iteration
