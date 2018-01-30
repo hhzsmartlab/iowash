@@ -27,8 +27,8 @@ Some probands react positive on the expiration of the timer, others do not see t
 + Verry accessible
 + Concise smartphone interface
 + Good Idea
-- Missing start button on the UI on the washing machine
-- If the setting is made on the washing machine and then the QR code is scanned, the settings made will overwrite
++ Missing start button on the UI on the washing machine
++ If the setting is made on the washing machine and then the QR code is scanned, the settings made will overwrite
 
 
 **Which Features did you find most useful?**
@@ -38,10 +38,12 @@ Some probands react positive on the expiration of the timer, others do not see t
 + easy selection of washing programms
 + easy payment
 + Timer
-- timer should provides an audio signal
++ timer should provides an audio signal
 
 
 **What additional features would you expect?**
+
+
 
 
 **Which Features did you struggle with?**
