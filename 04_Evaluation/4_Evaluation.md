@@ -98,8 +98,13 @@ The test persons observe the timer and notice the notification on the smartphone
 
 **How did you like the iowash service?**
 
+**Which Features did you find most useful?**
 
+**What additional features would you expect?**
 
+**Which Features did you struggle with?**
+
+**How could the service be easier to use?**
 
 
 ## 4.2 Data-Analysis
