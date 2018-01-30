@@ -124,6 +124,9 @@ The test persons observe the timer and notice the notification on the smartphone
 
 **How could the service be easier to use?**
 
++ Machine should remain locked until the user is authenticated again - Otherwise, someone steals my laundry
++ Control everything through the app
+
 
 ## 4.2 Data-Analysis
 
