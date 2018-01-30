@@ -47,4 +47,4 @@ The Internet of things (IoT) describes embedded devices with Internet connectivi
 #### &nbsp;&nbsp;&nbsp;[4.2 Data Analysis](04_Evaluation/4_Evaluation.md#42-data-analysis)
 #### &nbsp;&nbsp;&nbsp;[4.3 Conclusions](04_Evaluation/4_Evaluation.md#43-conclusions)
 
-[:arrow_forward: ](../01_Co-Creation/1.1_Team.md)
+[:arrow_forward: ](01_Co-Creation/1.1_Team.md)
