@@ -55,4 +55,4 @@ How did the user react on the notification?
 5) How could the service be easier to use?
 
 
-[:arrow_backward: ](../master/02_Exploration/2.2_Mock-Up.md)[:arrow_up_small: ](../README.md)[:arrow_forward: ](../master/04_Evaluation/4_Evaluation.md)
+[:arrow_backward: ](../02_Exploration/2.2_Mock-Up.md)[:arrow_up_small: ](../README.md)[:arrow_forward: ](../04_Evaluation/4_Evaluation.md)
