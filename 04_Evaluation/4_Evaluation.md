@@ -37,6 +37,25 @@ The testers liked the service altogether. It's a good idea, easy to access and h
 **How could the service be easier to use?**
 
 
+**Observations in #2 Iteration**
+
+**Phase 1)**
+
+Most of the probands are focused on the washing machine's display. 
+The probands usually try to change the settings on this display. 
+
+After one of the probands has changed settings on the tablet and changed the QR code with the smartphone, he is focused on his smartphone.   
+Another test person changes the settings again via smartphone and observes the transferred changes on the tablet.
+The hint on the tablet that you should either scan to the payment machine or the QR code is helpful for switching from the tablet to the smartphone. The test persons understand that the QR code is to be scanned and then the washing process is to be started via the app. 
+
+**Phase 2)**
+
+The test persons choose their desired program directly at the washing machine. 
+However, the three standard programs on the smartphone usually cause confusion. 
+
+**Phase 3)**
+
+The test persons observe the timer and notice the notification on the smartphone. 
 
 ## 4.2 Data-Analysis
 
