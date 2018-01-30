@@ -11,6 +11,8 @@ The Internet of things (IoT) describes embedded devices with Internet connectivi
 
 <a href="https://www.youtube.com/watch?v=9xDgP256jHA&t=1m19s"><img src="resources/video-thumbnail.png" width="400px" alt="iowash Video"/></a>
 
+**[Our presentation](resources/IoT_iowash_Keynote.pdf)**
+
 ## Way of proceeding
 ### 1. Co - Creation
 
