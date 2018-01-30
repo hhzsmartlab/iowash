@@ -51,6 +51,10 @@ Some probands react positive on the expiration of the timer, others do not see t
 
 **Which Features did you struggle with?**
 
++ media break between smartphone and machine display
++ If the setting is made on the washing machine and then the QR code is scanned, the settings made will overwrite
++ starting the machine
+
 
 **How could the service be easier to use?**
 
