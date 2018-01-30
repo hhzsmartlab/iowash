@@ -4,11 +4,16 @@
 The iowash `Living Lab Setup` describes the activities performed at the HHZ in Böblingen during the IoT-hackathon.
 
 The web-enabled washing machine is extended by a dynamic display. Scanning the QR-code with own device enables a connection with the washing machine.
-![](https://github.com/hhzsmartlab/iowash/blob/master/resources/living_lab_2.JPG)
-The washing program can be choosen directly on the displayed web interface. 
-![](https://github.com/hhzsmartlab/iowash/blob/master/resources/living_lab_4.JPG)
+
+<img src="../resources/living_lab_2.JPG" width="600px" alt="Living Lab 1"/>
+
+The washing program can be choosen directly on the displayed web interface.
+
+<img src="../resources/living_lab_4.JPG" width="600px" alt="Living Lab 2"/>
+
 When starting the wahsing program a countown is displayed in both - the device and the washing machine display.
-![](https://github.com/hhzsmartlab/iowash/blob/master/resources/living_lab_5.JPG)
+
+<img src="../resources/living_lab_3.JPG" width="600px" alt="Living Lab 3"/>
 
 ## 3.2 Test Phase
 Number of probands: **14**
