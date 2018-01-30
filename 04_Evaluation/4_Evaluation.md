@@ -98,9 +98,22 @@ The test persons observe the timer and notice the notification on the smartphone
 
 **How did you like the iowash service?**
 
++ good
++ okay
++ I like it
+
+
 **Which Features did you find most useful?**
 
++ made settings on the washing machines are shown on the smartphone
++ digital process more convincing than analogue
++ Timer on the smartphone
+
+
 **What additional features would you expect?**
+
++
+
 
 **Which Features did you struggle with?**
 
