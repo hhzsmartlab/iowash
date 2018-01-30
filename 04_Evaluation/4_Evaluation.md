@@ -129,6 +129,11 @@ The test persons observe the timer and notice the notification on the smartphone
 + Control everything through the app
 
 
+### Implications
+Due to the observations and feedback in the second iteration, the following changes are made:
+- As soon as changes are made to the tablet attached to the washing machine, the "Custom" button is selected on the smartphone and now also the exact details of what has been selected. In this way, the smartphone allows the user to recognize which wash setting is currently set. 
+ - Because the test application does not send out a notification that the laundry is finished until the timer has arrived at 0min. As this has been criticized, the trigger for the notification is set to 5min, so that the user is informed shortly before the end of the washing process.
+
 ## 4.2 Data-Analysis
 
 ## 4.3 Conclusions
