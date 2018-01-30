@@ -112,10 +112,15 @@ The test persons observe the timer and notice the notification on the smartphone
 
 **What additional features would you expect?**
 
-+
++ Custom settings should be saved and not lost again
++ Automatic filling of the washing powder
 
 
 **Which Features did you struggle with?**
+
++ Scan QR code does not work properly. Display on the machine does not really change when the timer is started in the app. It makes sense to disable the menu selection and only show the timer with a note "occupied" or "reserve now afterwards" with its own QR code (?)
++ Find the right program
+
 
 **How could the service be easier to use?**
 
