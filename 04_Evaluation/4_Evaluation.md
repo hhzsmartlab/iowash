@@ -134,6 +134,7 @@ Due to the observations and feedback in the second iteration, the following chan
 - As soon as changes are made to the tablet attached to the washing machine, the "Custom" button is selected on the smartphone and now also the exact details of what has been selected. In this way, the smartphone allows the user to recognize which wash setting is currently set. 
  - Because the test application does not send out a notification that the laundry is finished until the timer has arrived at 0min. As this has been criticized, the trigger for the notification is set to 5min, so that the user is informed shortly before the end of the washing process.
 
+The two adjustments were incorporated. In the next step, those adjustments have to be validated in the Living Lab Test Setup. 
 
 ## 4.2 Conclusions
 The changes from the first iteration helped the handling of the iowash service. The test subjects were thus able to better cope with the selection of the desired wash settings and the indication that the QR code should be scanned was noticed and the test subjects reacted accordingly.
@@ -141,7 +142,7 @@ The changes from the first iteration helped the handling of the iowash service. 
 In the third iteration, the changes resulting from the observations and feedback of the second iteration have to be validated and changes made again. 
 
 The MVP could be further developed with the help of the Test Setup. After further tests have been done in the Living Lab, further functions of the application must be validated there.
-In the present test setup, only one application was tested, so it is necessary to check, among other functions, whether the implementation of the booking process has been implemented in a user-friendly manner. However, this is no longer part of the Minimal Viable Products.
+In the present test setup, only one use case was tested, so it is necessary to check, among other functions for the MVP, whether the implementation of the booking process has been implemented in a user-friendly manner. However, the booking process is no longer part of the Minimal Viable Product.
 
 
 [:arrow_backward: ](../03_Experimentation/3_Experimentation.md)[:arrow_up_small: ](../README.md)
