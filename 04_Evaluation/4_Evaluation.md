@@ -137,9 +137,11 @@ Due to the observations and feedback in the second iteration, the following chan
 
 ## 4.2 Conclusions
 The changes from the first iteration helped the handling of the iowash service. The test subjects were thus able to better cope with the selection of the desired wash settings and the indication that the QR code should be scanned was noticed and the test subjects reacted accordingly.
+
 In the third iteration, the changes resulting from the observations and feedback of the second iteration have to be validated and changes made again. 
-The MVP could be further developed with the help of the Test Setup. After further tests have been carried out in the Living Lab, further functions of the application must be validated in the Living Lab. 
-In the present test setup, only one application was tested, so it is necessary to check, among other things, whether the implementation of the booking process has been implemented in a user-friendly manner. However, this is no longer part of the Minimal Viable Products.
+
+The MVP could be further developed with the help of the Test Setup. After further tests have been done in the Living Lab, further functions of the application must be validated there.
+In the present test setup, only one application was tested, so it is necessary to check, among other functions, whether the implementation of the booking process has been implemented in a user-friendly manner. However, this is no longer part of the Minimal Viable Products.
 
 
 [:arrow_backward: ](../03_Experimentation/3_Experimentation.md)[:arrow_up_small: ](../README.md)
