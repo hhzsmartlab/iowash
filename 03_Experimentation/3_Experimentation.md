@@ -16,10 +16,19 @@ When starting the wahsing program a countown is displayed in both - the device a
 <img src="../resources/living_lab_3.JPG" width="600px" alt="Living Lab 3"/>
 
 ## 3.2 Test Phase
-Number of probands: **14**
+Number of probands: **8**
 
-Explain baseline situation to probands:  
+
+
+### Methodical Procedure:
+1) Explain baseline situation to probands in first iteration:
 *"Imagine your are a student in student housing with community washing machines. You now want to wash your clothes. Please try using iowash to wash your clothes."*
+Explain baseline situation to probands in second iteration:
+*"Imagine your are a student in student housing with community washing machines. You now want to wash your **shirts**. Please try using iowash to wash them."*
+
+2) Let the probands try to choose their washing program and start the washing procedure. At the same time, the test persons are observed and the interaction is documented in the Observation Sheet. 
+
+3) After the test, the probands give their feedback in the Google Form.  
 
 ## 3.3 Data Collection
 
