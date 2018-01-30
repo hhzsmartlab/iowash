@@ -64,6 +64,12 @@ Some probands react positive on the expiration of the timer, others do not see t
 + exclude unrealistic settings
 + Note on cash machine in the UI
 
+### Implications
+
+Due to the observations and feedback in the first iteration, changes are made to the test application:
+-	Now it is possible that not only changes on the smartphone are transferred to the tablet, but also vice versa, that changes made to the machine display are reflected on the smartphone display. 
+-	Some test persons also looked for the start button on the display attached to the washing machine. Therefore, the note "scan QR code or go to pay station" was added. 
+-	In addition, the result of the observations is incorporated, that as soon as changes have been made to the washing machine, the "Custom" button is selected on the smartphone display, which shows "see on washer". This informs the user that special settings have been selected directly at the washing machine and can be looked up there.
 
 
 
