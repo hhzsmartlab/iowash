@@ -23,9 +23,9 @@ Number of probands: **8**
 ### Methodical Procedure:
 1) Explain baseline situation to probands in first iteration:
 
-1 a) *"Imagine your are a student in student housing with community washing machines. You now want to wash your clothes. Please try using iowash to wash your clothes."*
+1a) *"Imagine your are a student in student housing with community washing machines. You now want to wash your clothes. Please try using iowash to wash your clothes."*
 
-1 b) Explain baseline situation to probands in second iteration:
+1b) Explain baseline situation to probands in second iteration:
 *"Imagine your are a student in student housing with community washing machines. You now want to wash your **shirts**. Please try using iowash to wash them."*
 
 2) Let the probands try to choose their washing program and start the washing procedure. At the same time, the test persons are observed and the interaction is documented in the Observation Sheet. 
