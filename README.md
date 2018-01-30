@@ -16,33 +16,33 @@ The Internet of things (IoT) describes embedded devices with Internet connectivi
 
 `To start with we analyze the #iowash application in context. We then make the application understandable by using instruments from other lectures (e. g. canvas methods).`
 
-#### [1.1 Team Roles and Responsibilities](01_Co-Creation/1.1_Team.md)
+#### &nbsp;&nbsp;&nbsp;[1.1 Team Roles and Responsibilities](01_Co-Creation/1.1_Team.md)
 
-#### [1.2 List of used methods](01_Co-Creation/1.2_Methods.md)
+#### &nbsp;&nbsp;&nbsp;[1.2 List of used methods](01_Co-Creation/1.2_Methods.md)
 
-##### [1.2.1 Personas](01_Co-Creation/1.2_Methods.md#personas)
-##### [1.2.2 Value Proposition](01_Co-Creation/1.2_Methods.md#value-proposition)
-##### [1.2.3 Lean canvas](01_Co-Creation/1.2_Methods.md#lean-canvas)
-##### [1.2.4 Wheels of Value](01_Co-Creation/1.2_Methods.md#wheels-of-value)
-##### [1.2.5 Service Blueprint](01_Co-Creation/1.2_Methods.md#service-blueprint)
-##### [1.2.6 Identifying the MVP](01_Co-Creation/1.2_Methods.md#identifying-the-mvp)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.1 Personas](01_Co-Creation/1.2_Methods.md#personas)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.2 Value Proposition](01_Co-Creation/1.2_Methods.md#value-proposition)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.3 Lean canvas](01_Co-Creation/1.2_Methods.md#lean-canvas)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.4 Wheels of Value](01_Co-Creation/1.2_Methods.md#wheels-of-value)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.5 Service Blueprint](01_Co-Creation/1.2_Methods.md#service-blueprint)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.6 Identifying the MVP](01_Co-Creation/1.2_Methods.md#identifying-the-mvp)
 
 ### 2. Exploration
 `In a test setup we show how our idea can work. We use IoT Mock-up technology, which we expect to be generally available.`
 
-#### [2.1 System Architecture](02_Exploration/2.1_System%20Architecture.md)
-#### [2.2 Mock-Up](02_Exploration/2.2_Mock-Up.md)
+#### &nbsp;&nbsp;&nbsp;[2.1 System Architecture](02_Exploration/2.1_System%20Architecture.md)
+#### &nbsp;&nbsp;&nbsp;[2.2 Mock-Up](02_Exploration/2.2_Mock-Up.md)
 
 ### 3. Experimentation
 `As a result of the exploration phase, we determine and justify an MVP of our application. Furthermore we describe the Living Lab Setup, the users and which data should be collected for the evaluation.`
 
-#### [3.1 Living Lab Setup](03_Experimentation/3_Experimentation.md#31-living-lab-setup)
-#### [3.2 Test Phase](03_Experimentation/3_Experimentation.md#32-test-phase)
-#### [3.3 Data Collection](03_Experimentation/3_Experimentation.md#33-data-collection)
+#### &nbsp;&nbsp;&nbsp;[3.1 Living Lab Setup](03_Experimentation/3_Experimentation.md#31-living-lab-setup)
+#### &nbsp;&nbsp;&nbsp;[3.2 Test Phase](03_Experimentation/3_Experimentation.md#32-test-phase)
+#### &nbsp;&nbsp;&nbsp;[3.3 Data Collection](03_Experimentation/3_Experimentation.md#33-data-collection)
 
 ### 4. Evaluation
 `Finally, we describe possible results from the experimental phase and how we can recognize them in the data.`
 
-#### [4.1 Validation](04_Evaluation/4_Evaluation.md#41-validation)
-#### [4.2 Data Analysis](04_Evaluation/4_Evaluation.md#42-data-analysis)
-#### [4.3 Conclusions](04_Evaluation/4_Evaluation.md#43-conclusions)
+#### &nbsp;&nbsp;&nbsp;[4.1 Validation](04_Evaluation/4_Evaluation.md#41-validation)
+#### &nbsp;&nbsp;&nbsp;[4.2 Data Analysis](04_Evaluation/4_Evaluation.md#42-data-analysis)
+#### &nbsp;&nbsp;&nbsp;[4.3 Conclusions](04_Evaluation/4_Evaluation.md#43-conclusions)
