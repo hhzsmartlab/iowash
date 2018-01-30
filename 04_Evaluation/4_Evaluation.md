@@ -66,6 +66,7 @@ Some probands react positive on the expiration of the timer, others do not see t
 
 
 
+
 ### Observations in #2 Iteration
 
 **Phase 1)**
@@ -85,6 +86,15 @@ However, the three standard programs on the smartphone usually cause confusion.
 **Phase 3)**
 
 The test persons observe the timer and notice the notification on the smartphone. 
+
+
+### Claim Feedback in Google Form
+
+**How did you like the iowash service?**
+
+
+
+
 
 ## 4.2 Data-Analysis
 
