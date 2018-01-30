@@ -73,7 +73,6 @@ Due to the observations and feedback in the first iteration, changes are made to
 
 -----
 
-_____
 
 ### Observations in #2 Iteration
 
