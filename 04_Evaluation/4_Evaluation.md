@@ -1,6 +1,6 @@
 # 4. Evaluation
 ## 4.1 Validation
-**Observations in #1 Iteration**
+### Observations in #1 Iteration
 
 **Phase 1)**
 
@@ -19,7 +19,7 @@ Additionally, many users search the start button on the tablet, because they are
 Some probands react positive on the expiration of the timer, others do not see the notification immediately.
 
 
-**Claim Feedback in Google Form**
+### Claim Feedback in Google Form
 
 **How did you like the iowash service?**
 
@@ -37,7 +37,7 @@ The testers liked the service altogether. It's a good idea, easy to access and h
 **How could the service be easier to use?**
 
 
-**Observations in #2 Iteration**
+### Observations in #2 Iteration
 
 **Phase 1)**
 
