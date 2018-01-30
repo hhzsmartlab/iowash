@@ -23,9 +23,22 @@ Some probands react positive on the expiration of the timer, others do not see t
 
 **How did you like the iowash service?**
 
-The testers liked the service altogether. It's a good idea, easy to access and has a concise smartphone interface. However, the user interface at the washing machine was criticized. With this missing the possibility to start the washing program. This is so far only possible via the smartphone. If settings have been made via the UI on the washing machine and then the QR code is scanned, the settings made are overwritten.
++ Application was basically seen positively
++ Verry accessible
++ Concise smartphone interface
++ Good Idea
+- Missing start button on the UI on the washing machine
+- If the setting is made on the washing machine and then the QR code is scanned, the settings made will overwrite
+
 
 **Which Features did you find most useful?**
+
++ Quick access
++ easy to start
++ easy selection of washing programms
++ easy payment
++ Timer
+- timer should provides an audio signal
 
 
 **What additional features would you expect?**
