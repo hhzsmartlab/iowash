@@ -43,7 +43,10 @@ Some probands react positive on the expiration of the timer, others do not see t
 
 **What additional features would you expect?**
 
-
++ Reminder, e.g. Some minutes before time is over to prepare to get the laundry
++ direkt start with the UI on the washing maschine
++ possibility to save customer settings
++ Timer start, e.g. Put the laundry in the machine on the morning, later on (finish when I come home)
 
 
 **Which Features did you struggle with?**
